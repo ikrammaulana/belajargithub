@@ -1,3 +1,6 @@
 Hello World!  
 
-- Mencoba push request melalui fork 
+- Mencoba push request melalui fork
+
+Mencoba Latihan Squash and Merge
+- [x] Squash 1
