@@ -3,4 +3,5 @@ Hello World!
 - Mencoba push request melalui fork
 
 Mencoba Latihan Squash and Merge
-- [x] Squash 1
+- [ ] Squash 1
+- [x] Squash 2
