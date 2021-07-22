@@ -1,6 +1,8 @@
 Hello World!  
 
 - Mencoba push request melalui fork
+- Bagaimana melakukan code review pada github
+- Memulai melakukan ulasan pada setiap perubahan code
 
 Mencoba Latihan Squash and Merge
 - [ ] Squash 1
